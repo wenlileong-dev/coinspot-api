@@ -1,6 +1,6 @@
 {
   "name": "coinspot-api-update",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "easy to use coinspot api",
   "main": "index.js",
   "scripts": {

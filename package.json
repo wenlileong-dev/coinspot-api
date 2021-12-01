@@ -1,0 +1,15 @@
+{
+  "name": "coinspot-api-update",
+  "version": "1.0.0",
+  "description": "easy to use coinspot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wen Li Leong",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "crypto": "^1.0.1"
+  }
+}
